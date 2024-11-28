@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(11, 205, 205);
+  }
+  #pong {
+    border: 2px solid #0ab84d;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+  }
+  
